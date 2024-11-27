@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm __Giuseppe Guerra__, a software engineer based in Italy.  
+
+- 🔭 I’m currently working with Microsoft tecnologies like .NET, C#, SQL Server, ASP.NET Core and so on...
+
 <!--
 **giuseppe-guerra/giuseppe-guerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
